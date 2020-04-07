@@ -1,2 +1,2 @@
 # springboot-docker
-≤‚ ‘ngix
+nginx
